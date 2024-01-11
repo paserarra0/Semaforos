@@ -1,8 +1,3 @@
-/************************************************************
-* Nombre: Pablo Serna Arrazola
-* Asignatura: Programación concurrente y distribuida.
-* Actividad Unidad 2: Semáforos + Monitores
-************************************************************/
 package semaforos;
 
 public class Main {
